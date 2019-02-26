@@ -8,27 +8,9 @@
     <url>http://www.yealink.com</url>
 	<templatetype>supported</templatetype>
     <models>
-      <model ua="SIP-T19P_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T19P E2</model>
-      <model ua="SIP-T19_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T19 E2</model>
-      <model ua="SIP-T21P_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T21P E2</model>
-      <model ua="SIP-T21_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T21 E2</model>
-      <model ua="SIP-T23P" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T23P</model>
-      <model ua="SIP-T23G" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T23G</model>
-      <model ua="SIP-T27P" defaultlogo="yealinkt28.dob" logowidth="236" logoheight="82" logobitdepth="1">Yealink T27P</model>
-      <model ua="SIP-T27G" defaultlogo="yealinkt28.dob" logowidth="236" logoheight="82" logobitdepth="1">Yealink T27G</model>
-      <model ua="SIP-T29G" defaultlogo="yealinkt46.png" logowidth="400" logoheight="272" logobitdepth="24">Yealink T29G</model>
-      <model ua="SIP-T40P" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T40P</model>
-      <model ua="SIP-T40G" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T40G</model>
-      <model ua="SIP-T41S" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T41S</model>
-      <model ua="SIP-T41P" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T41</model>
-      <model ua="SIP-T42S" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T42S</model>
-      <model ua="SIP-T42G" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T42</model>
-      <model ua="SIP-T46S" defaultlogo="yealinkt46.png" logowidth="400" logoheight="272" logobitdepth="24">Yealink T46S</model>
-      <model ua="SIP-T46G" defaultlogo="yealinkt46.png" logowidth="400" logoheight="272" logobitdepth="24">Yealink T46</model>
-      <model ua="SIP-T48S" defaultlogo="yealinkt48.png" logowidth="800" logoheight="480" logobitdepth="24">Yealink T48S</model>
-      <model ua="SIP-T48G" defaultlogo="yealinkt48.png" logowidth="800" logoheight="480" logobitdepth="24">Yealink T48</model>
-      <model ua="SIP-T52S" defaultlogo="yealinkt52.png" logowidth="320" logoheight="240" logobitdepth="24">Yealink T52S</model>
-      <model ua="SIP-T54S" defaultlogo="yealinkt46.png" logowidth="400" logoheight="272" logobitdepth="24">Yealink T54S</model>
+      <model ua="SIP-T21_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T21 E2-yealinkt4x_psc</model>
+      <model ua="SIP-T27G" defaultlogo="yealinkt28.dob" logowidth="236" logoheight="82" logobitdepth="1">Yealink T27G-yealinkt4x_psc</model>
+      <model ua="SIP-T29G" defaultlogo="yealinkt46.png" logowidth="400" logoheight="272" logobitdepth="24">Yealink T29G-yealinkt4x_psc</model>
     </models>
     <description>Yealink T4X SIP Phone</description>
     <parsers>
