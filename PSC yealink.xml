@@ -2259,7 +2259,7 @@ features.special_auto_answer_tone =
 features.anonymous_response_code =
 
 # Only applicable to SIP-T46G/T48G/T29G/T48S/T46S IP phones
-features.config_dsskey_length =
+features.config_dsskey_length = 2
 
 #The following parameter only applicable to V80
 features.reboot_in_talk_enable =
@@ -2703,7 +2703,7 @@ screensaver.type= 1
 {IF ua=SIP-T54S}
 wallpaper_upload.url = %%PROVLINK%%/%%logo%%
 screensaver.upload_url= %%PROVLINK%%/%%logo%%
-screensaver.type= 1
+screensaver.type= 0
 {ENDIF}
 
 {ENDIF}
@@ -5654,7 +5654,7 @@ programablekey.2.type = 47
 programablekey.2.line = 1
 programablekey.2.value =
 programablekey.2.history_type =
-programablekey.2.label = 3CX PBook
+programablekey.2.label = PLV PBook
 programablekey.2.xml_phonebook =
 
 programablekey.3.type =
@@ -12613,7 +12613,7 @@ remote_phonebook.data.1.url = %%PROVLINKLOCAL%%/yealink_phonebook.xml
 {ELSE}
 remote_phonebook.data.1.url = %%PROVLINK%%/yealink_phonebook.xml
 {ENDIF}
-remote_phonebook.data.1.name = 3CX Phonebook 
+remote_phonebook.data.1.name = PLV Phonebook 
 
 remote_phonebook.data.2.url =
 remote_phonebook.data.2.name =
@@ -12752,7 +12752,7 @@ screensaver.wait_time= %%scrsavertime%%
 screensaver.picture_change_interval=
 screensaver.clock_move_interval=
 screensaver.display_clock_on_upload_picture.enable = 0
-screensaver.display_clock.enable = 0
+screensaver.display_clock.enable = 1
 {IF ua=SIP-T29G,SIP-T46S,SIP-T46G,SIP-T48S,SIP-T48G,SIP-T52S,SIP-T54S}
 {ELSE}
 phone_setting.lcd_logo.wait_time= %%scrsavertime%%
@@ -12841,6 +12841,16 @@ wui.quick_login = 1
 phone_setting.backgrounds_with_dsskey_unfold
 lcl.datetime.date.format = 
 phone_setting.idle_dsskey_and_title.transparency=
+#######################################################################################
+##                                     Key Layout                                    ##          
+#######################################################################################
+programablekey.3.type = 13
+programablekey.3.value =
+programablekey.3.label = 
+programablekey.4.type = 13
+programablekey.4.value = 6500
+programablekey.4.label = Tech
+
 
 ]]></deviceconfig>
     </device>
