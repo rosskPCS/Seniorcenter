@@ -9,7 +9,6 @@
 	<templatetype>supported</templatetype>
     <models>
       <model ua="SIP-T21P_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T21P E2-yealinkt4x_psc</model>
-      <model ua="SIP-T21_E2" defaultlogo="yealinkt22.dob" logowidth="132" logoheight="64" logobitdepth="1">Yealink T21 E2-yealinkt4x_psc</model>
       <model ua="SIP-T27G" defaultlogo="yealinkt28.dob" logowidth="236" logoheight="82" logobitdepth="1">Yealink T27G-yealinkt4x_psc</model>
       <model ua="SIP-T29G" defaultlogo="yealinkt46.png" logowidth="400" logoheight="272" logobitdepth="24">Yealink T29G-yealinkt4x_psc</model>
     </models>
